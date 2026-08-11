@@ -1,64 +1,29 @@
-# 💼 Business Card
+# 💼 Визитная карточка
 
-Interactive console program that collects user information and generates a formatted digital business card.
+Интерактивная консольная программа на Python, которая собирает информацию о пользователе и создаёт красиво оформленную цифровую визитную карточку.
 
-## 🚀 Features
+## 🚀 Возможности
 
-- 👤 Asks for the user's name
-- 🎂 Asks for the user's age
-- 📍 Asks for the user's city
-- 💼 Asks for the user's profession
-- 🪪 Generates a formatted business card
+- 👤 Запрашивает имя пользователя
+- 🎂 Запрашивает возраст
+- 📍 Запрашивает город
+- 💼 Запрашивает профессию
+- 🪪 Формирует оформленную визитную карточку
 
-## 🧠 What I Learned
+## 🧠 Что изучено
 
 - `print()`
 - `input()`
-- Variables
-- Strings
+- Переменные
+- Типы данных
+- Форматирование строк
 - `f-string`
-- Basic data types
-- Formatting console output
 
-## 🛠️ Technologies
+## ▶️ Запуск
 
-- Python 3
-- Git
-- GitHub
+Убедитесь, что установлен Python 3.13 или более новая версия.
 
-## ▶️ How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/anton-ai-777/01_business_card.git
-```
-
-Go to the project directory:
-
-```bash
-cd 01_business_card
-```
-
-Run the program:
+Откройте терминал в папке проекта и выполните:
 
 ```bash
 python main.py
-```
-
-## 💻 Example
-
-```text
-===== BUSINESS CARD =====
-
-Name: Anton
-Age: 31
-City: Moscow
-Profession: AI Engineer
-```
-
-## 📚 Project Status
-
-Completed educational project.
-
-This project is part of my Python → AI Engineer learning journey.
